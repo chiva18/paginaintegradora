@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(0, 247, 255);
+}
+.div{
+    color: rgb(54, 52, 47);
+    background-color: rgb(39, 198, 238);
+    font-size: 24px;
+    text-align: center; border-style: solid; border-color: aqua; margin: auto; width: 80%; padding: 10px;
+}
+.letra{
+    float: none;
+    text-align: center;
+    font-size: 132px;
+    color: rgb(54, 52, 47);
+    background: rgb(39, 198, 238);
+    display: auto;
+    width: 160px;
+    height: 160px;
+    flex-wrap: wrap;
+    text-align: center; border-style: solid; border-color: aqua; margin: auto; width: 80%; padding: 10px;
+}

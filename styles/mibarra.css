@@ -1,0 +1,28 @@
+nav{
+    background-color: black;
+}
+ul{
+    text-align: center;
+}
+ul li{
+    display:inline;
+    color: blanchedalmond;
+    font-size: 30px;
+    margin-right: 100px;
+}
+ul li:hover{
+    color: rgb(255, 0, 0);
+}
+div.contenedor{
+    background-color: orange;
+    text-align: center;
+    width: 80%;
+    margin: auto;
+    height: 615px;
+}
+body{
+    background-color: bisque;
+}
+img{
+    width: 70%;
+}
